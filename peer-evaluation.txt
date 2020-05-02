@@ -1,0 +1,42 @@
+Name:Yihang Huang
+Date:2020.5.2
+
+Project: Jame Gam
+Group's repository: [https://github.com/srp3/Final-Corona-Project
+
+
+What is something you learned by reviewing this group's project?
+
+How to make a simple linear text adventure game
+
+In what ways does this game reflect the theme?
+
+The game uses a simple story that tells the players what they should pay attention to when they go to Walmart to buy things in a special period, which is closely connected to the theme.
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+A simple and clear main line is very important for the game. Players can directly see what story the game wants to tell through the game.
+
+What suggestions would you have for this group to improve the game?
+
+ A simple main story is a good thing, but the lack of more options and sidelines makes the game a bit boring. The selection branch in the game is more like a right and wrong question. If you answer wrong, the game will end directly. This is not a good idea.
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+None
+
+Is it clear that every group member participated?
+Yes
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes
+
+What is something the group could add to the README.md to make it more descriptive?
+
+Nothing. This group wrote the main story and the division of works in the README.md, and wrote why they did it.
+
+Pay a compliment to the group based on the quality of the game.
+Although the story is flawed, the game is still educational, and it tells us what to do and what not to do when buying things in the current special period.
+
+How many of your points would you allocate to this project?
+
+4
