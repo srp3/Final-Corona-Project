@@ -1,0 +1,63 @@
+Name: Tanner Chaille
+Date: 2 May 2020
+
+Project: "Coronavirus Final Game"
+Group's repository: https://github.com/srp3/Final-Corona-Project
+
+
+
+What is something you learned by reviewing this group's project?
+
+
+I didn't even consider creating a text game for this assignment, as I pretty much figured everyone would use Godot to create a 2D or 3D game. I think it's an interesting choice to create a text-based game through Python, and I definitely learned how to do that in a quick time period from this project. 
+ 
+
+In what ways does this game reflect the theme?
+
+
+It's definitely on theme, as the game consists of gathering supplies within a Walmart during the COVID-19 crisis. 
+
+ 
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+
+I think text-based games are sort of a lost art and I would love to explore the medium more, and this project definitely inspired that. 
+
+
+What suggestions would you have for this group to improve the game?
+
+
+I think you could have made the choices diverge more often, as right now every answer leads to one outcome, and so on and so forth. More variety in the possibilities of the game would make it more deep. In addition, it's difficult to start playing the game from the Python script you included because there's no initial prompt, at least in my experience. 
+
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+
+This team did not use GDScript, but nothing was particularly confusing. 
+
+
+Is it clear that every group member participated?
+
+I trust what the README said regarding member participation. 
+ 
+
+Does the repository contain an appropriate LICENSE?
+
+
+Yes. 
+
+
+What is something the group could add to the README.md to make it more descriptive?
+
+I think a screenshot of the actual text game being run would be better than a physical Walmart store, though I understand how that is relevant. 
+
+
+Pay a compliment to the group based on the quality of the game.
+
+I'm glad you made something you really wanted to in spite of others using Godot in the form of your text-based game. I think it's very clean and efficient coding which I have trouble with. 
+
+
+How many of your points would you allocate to this project?
+
+1 - I'm not saying I don't see your effort or the work you put in, but I just didn't find this game particularly "fun". Good work nonetheless. 
