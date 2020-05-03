@@ -48,4 +48,4 @@ if answer == "mask":
 else:
     print("you werent protected and caught the virus, game over.")
 
-
+#   :0
