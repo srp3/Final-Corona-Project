@@ -1,0 +1,47 @@
+Name: Emma Callahan
+Date: 4/30/2020
+
+Project: 
+Group's repository: 
+Final Corona Project
+
+
+What is something you learned by reviewing this group's project?
+I forgot about the text adventure we did at the beginning of the class and revisited a lot of code for it.
+ 
+
+In what ways does this game reflect the theme?
+This game clearly reflects the theme of Corona. =
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+I personally would like to do more text adventure games to practice writing.
+ 
+
+What suggestions would you have for this group to improve the game?
+Fix spelling mistakes and don't put toliet paper as TP. I would also not include the possible choices to the player, it takes out a bit of mystery. I would also include more than two choices.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+No, there was nothing that was confusing.
+ 
+
+Is it clear that every group member participated?
+Yes, I believe it is clear that every group member participated.
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+I would add more about the writing process and more of the creative side of writing the game.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+I enjoyed the little bits of humor added into the writing.
+
+
+How many of your points would you allocate to this project?
+2 pts
+
